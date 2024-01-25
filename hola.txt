@@ -1,5 +1,5 @@
-Texto de prubea en Bash.
+Texto de prueba en Bash.
 Otro texo de prueba en script.
-Hola mundo
-hola
-hola me llamo sergio
+Hola mundo.
+hola me llamo Sergio, y estoy escribiendo en el editor de texto NeoVim.
+
